@@ -7,5 +7,5 @@ public class Copyright {
     private String name;
     private String type;
 
-    //getter + setter;
+    //getter + sette;
 }
