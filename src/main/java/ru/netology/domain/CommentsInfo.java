@@ -2,8 +2,11 @@ package ru.netology.domain;
 
 public class CommentsInfo {
 
-    private String commentsPictureUrl;
-    private int numberOfComments;
+    private int count;
+    private int canPost; //поменял бы на boolean;
+    private int groupsCanPost;
+    private boolean canClose;
+    private boolean canOpen;
 
     //getter + setter;
 }

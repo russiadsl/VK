@@ -2,7 +2,7 @@ package ru.netology.domain;
 
 public class ViewsInfo {
 
-    private float numberOfViews;
+    private int count;
 
     //getter + setter;
 }
